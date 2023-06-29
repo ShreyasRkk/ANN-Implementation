@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: ANN-Implementation
+Version: 0.0.0
+Summary: ANN Implementation
+Home-page: https://github.com/ShreyasRkk/ANN-Implementation
+Author: ShreyasRkk
+Author-email: shreyasrk64@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# ANN-Implementation
+ANN implementation using tf and keras
